@@ -1,0 +1,25 @@
+/*--Reset--*/
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+button {
+  border: none
+}
